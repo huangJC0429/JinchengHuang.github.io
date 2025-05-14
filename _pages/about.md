@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi~ I am a second-year PhD student at the Department of Computer Science and Engineering at the University of Electronic Science and Technology of China (UESTC), advised by Xiaofeng Zhu, and currently a visiting PhD student at SUTD, advised by Lei Feng. I worked as a research intern at Microsoft Research Asia (MSRA). I have been awarded the National Scholarship for Graduate Students and the Tencent Scholarship.
+Hi~ I am a second-year PhD student at the Department of Computer Science and Engineering at the University of Electronic Science and Technology of China (UESTC), advised by Xiaofeng Zhu, and currently a visiting PhD student at SUTD, advised by Lei Feng. I worked as a research intern at Microsoft Research Asia (MSRA). I have been awarded the National Scholarship for Graduate Students and the Tencent Scholarship. I am currently working on trustworthy graph learning, with a focus on calibration. In the future, I plan to explore trustworthy outputs of LLMs and MLLMs. If you're interested, feel free to contact me via email.
 
 # 🤗 News
 
