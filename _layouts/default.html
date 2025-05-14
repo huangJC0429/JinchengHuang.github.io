@@ -30,12 +30,22 @@ layout: compress
 
     
     {% include scripts.html %}
-<div style="text-align: center; margin-top: 30px;">
-  <div style="display: inline-block; transform: scale(0.7); transform-origin: top center;">
-    <script type="text/javascript" id="clstr_globe"
-      src="https://clustrmaps.com/globe.js?d=nKuQ1CtQ7QEEoVzbOUadKn1xtcVyYHKypLRr1RqvkfM"></script>
+<div id="clustrmaps-container" style="text-align: center; margin-top: 30px;">
+  <div id="globe-wrapper" style="display: inline-block; transform: scale(0.7); transform-origin: top center;">
   </div>
 </div>
+
+<!-- 放在 body 底部，在 scripts.html 之后 -->
+<script type="text/javascript">
+  const container = document.getElementById('globe-wrapper');
+  if (container) {
+    const script = document.createElement('script');
+    script.id = 'clstr_globe';
+    script.type = 'text/javascript';
+    script.src = 'https://clustrmaps.com/globe.js?d=nKuQ1CtQ7QEEoVzbOUadKn1xtcVyYHKypLRr1RqvkfM';
+    container.appendChild(script);
+  }
+</script>
     
 <!--   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=nKuQ1CtQ7QEEoVzbOUadKn1xtcVyYHKypLRr1RqvkfM"></script> -->
 
