@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi~ I am a second-year PhD student at the Department of Computer Science and Engineering at the University of Electronic Science and Technology of China (UESTC), advised by Xiaofeng Zhu, and currently a visiting PhD student at SUTD, advised by Lei Feng. I worked as a research intern at Microsoft Research Asia (MSRA). I have been awarded the National Scholarship for Graduate Students and the Tencent Scholarship.
+Hi~ I am a second-year PhD student at the Department of Computer Science and Engineering at the University of Electronic Science and Technology of China (UESTC), advised by Xiaofeng Zhu, and currently a visiting PhD student at SUTD, advised by Lei Feng. I worked as a research intern at Microsoft Research Asia (MSRA).
 
 I am currently working on trustworthy graph learning, with a focus on calibration. In the future, I plan to explore trustworthy outputs of LLMs and MLLMs. If you're interested, feel free to contact me via email.
 
@@ -74,13 +74,15 @@ Acong Zhang, **Jincheng Huang**\*, Ping Li, Kai Zhang
 - *2024.09* First-class Scholarship.
 - *2024.11* Tencent Scholarship.
 
+# ✨ Internship
 
+- Microsoft Research Asia (MSRA) 2022.5~2022.12, supervised by [Lun Du](https://scholar.google.com/citations?user=3XUANDAAAAAJ&hl=zh-CN). Focus on Adversarial Robustness of Graph Neural Networks.
 
 # 🏫 Educations
 
 - *2023.09 - (now)*, University of Electronic Science and Technology of China, Chengdu, China, Ph.D. student of Computer Science and Technology.
 - *2020.09 - 2023.06*, Southwest Petroleum University, Chengdu, China, Master of Computer Technology, Master of Computer Science and Technology. 
-- *2016.09 - 2020.06*, Changshu Institute of Technology, Changshu, China, Bachelor of Computer Science and Technology (Internet of Things Engineering). 
+- *2016.09 - 2020.06*, Suzhou University of Technology, Suzhou, China, Bachelor of Computer Science and Technology (Internet of Things Engineering). 
 
 # 💬 Services
 
