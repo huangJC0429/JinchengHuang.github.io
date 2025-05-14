@@ -20,13 +20,13 @@ redirect_from:
 Hi~ I am a second-year PhD student at the Department of Computer Science and Engineering at the University of Electronic Science and Technology of China (UESTC), advised by Xiaofeng Zhu, and currently a visiting PhD student at SUTD, advised by Lei Feng. I worked as a research intern at Microsoft Research Asia (MSRA). I have been awarded the National Scholarship for Graduate Students and the Tencent Scholarship.
 
 # 🤗News
-======
+
 - 2025.05: 🎉🎉🎉 One paper is accepted by ICML 2025.
 - 2024.12: Invited to serve as an Area Chair for IJCNN'25.
 
 
 # 📖Publications
-======
+
 \* indicates equal contribution
 
 Enhancing the Influence of Labels on Unlabeled Nodes in Graph Convolutional Networks. **ICML 2025.** [[Paper]]() [[Code]]()
@@ -75,12 +75,13 @@ Acong Zhang, **Jincheng Huang**\*, Ping Li, Kai Zhang
 
 
 # 🏫Educations
-------
+
 - *2023.09 - (now)*, University of Electronic Science and Technology of China, Chengdu, China, Ph.D. student of Computer Science and Technology.
 - *2020.09 - 2023.06*, Southwest Petroleum University, Chengdu, China, Master of Computer Technology, Master of Computer Science and Technology. 
 - *2016.09 - 2020.06*, Changshu Institute of Technology, Changshu, China, Bachelor of Computer Science and Technology (Internet of Things Engineering). 
 
 # 💬 Services
+
 - Area Chair: IJCNN 2025.
 - Program Committee Member for ICML 2024-2025, ICLR 2024-2025, NeurIPS 2024 2025, AAAI 2024-2025, ACM MM 2025, AISTATS2025 etc. 
 - Reviewer for TNNLS, TKDE, TIP, IPM, NeuralComputing, etc.
