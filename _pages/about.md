@@ -23,8 +23,9 @@ I am currently working on trustworthy graph learning, with a focus on calibratio
 
 # 🤗 News
 
-- *2025.05*: &nbsp;🎉🎉🎉 One paper is accepted by ICML 2025.
+- *2025.05*: &nbsp;🎉🎉🎉 One paper is accepted by ICML 2025！
 - *2024.12*: &nbsp; Invited to serve as an Area Chair for IJCNN'25.
+- *2024.11*：&nbsp;🎉🎉🎉 Honored to receive the Tencent Scholarship！
 
 
 # 📖 Publications
