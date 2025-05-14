@@ -19,13 +19,13 @@ redirect_from:
 
 Hi~ I am a second-year PhD student at the Department of Computer Science and Engineering at the University of Electronic Science and Technology of China (UESTC), advised by Xiaofeng Zhu, and currently a visiting PhD student at SUTD, advised by Lei Feng. I worked as a research intern at Microsoft Research Asia (MSRA). I have been awarded the National Scholarship for Graduate Students and the Tencent Scholarship.
 
-# 🤗News
+# 🤗 News
 
 - 2025.05: 🎉🎉🎉 One paper is accepted by ICML 2025.
 - 2024.12: Invited to serve as an Area Chair for IJCNN'25.
 
 
-# 📖Publications
+# 📖 Publications
 
 \* indicates equal contribution
 
@@ -63,7 +63,7 @@ Acong Zhang, **Jincheng Huang**\*, Ping Li, Kai Zhang
 
 
 
-# 🏆Honors and Awards
+# 🏆 Honors and Awards
 
 - *2022.04* National Scholarship.
 - *2023.01* Outstanding Graduate Student.
@@ -74,7 +74,7 @@ Acong Zhang, **Jincheng Huang**\*, Ping Li, Kai Zhang
 
 
 
-# 🏫Educations
+# 🏫 Educations
 
 - *2023.09 - (now)*, University of Electronic Science and Technology of China, Chengdu, China, Ph.D. student of Computer Science and Technology.
 - *2020.09 - 2023.06*, Southwest Petroleum University, Chengdu, China, Master of Computer Technology, Master of Computer Science and Technology. 
