@@ -32,7 +32,7 @@ I am currently working on trustworthy graph learning, with a focus on calibratio
 
 \* indicates equal contribution
 
-Enhancing the Influence of Labels on Unlabeled Nodes in Graph Convolutional Networks. **ICML 2025.** [[Paper]]() [[Code]]()
+Enhancing the Influence of Labels on Unlabeled Nodes in Graph Convolutional Networks. **ICML 2025.** [[Paper]](https://arxiv.org/pdf/2411.02279) [[Code]](https://github.com/huangJC0429/label-utilize-GCN)
 
 **Jincheng Huang**, Yujie Mo, Xiaoshuang Shi, Lei Feng, Xiaofeng Zhu
 
