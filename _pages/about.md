@@ -31,6 +31,7 @@ I am currently working on trustworthy graph learning, with a focus on calibratio
 # 📖 Publications
 
 \* indicates equal contribution
+The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework. **Under Review** [[Paper]](https://arxiv.org/pdf/2505.11335) [[Code]]()
 
 Enhancing the Influence of Labels on Unlabeled Nodes in Graph Convolutional Networks. **ICML 2025.** [[Paper]](https://arxiv.org/pdf/2411.02279) [[Code]](https://github.com/huangJC0429/label-utilize-GCN)
 
