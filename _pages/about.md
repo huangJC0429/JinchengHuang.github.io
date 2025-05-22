@@ -31,6 +31,7 @@ I am currently working on trustworthy graph learning, with a focus on calibratio
 # 📖 Publications
 
 \* indicates equal contribution
+
 The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework. **Under Review** [[Paper]](https://arxiv.org/pdf/2505.11335) [[Code]]()
 
 **Jincheng Huang**, Jie Xu, Xiaoshuang Shi, Ping Hu, Lei Feng, Xiaofeng Zhu
