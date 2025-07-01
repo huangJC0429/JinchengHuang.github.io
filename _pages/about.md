@@ -19,7 +19,7 @@ redirect_from:
 
 Hi~ I am a second-year PhD student at the Department of Computer Science and Engineering at the University of Electronic Science and Technology of China (UESTC), advised by [Xiaofeng Zhu](https://scholar.google.com/citations?user=-bk1CrcAAAAJ&hl=zh-CN), and currently a visiting PhD student at SUTD, advised by [Lei Feng](https://scholar.google.com/citations?user=KomQOFkAAAAJ&hl=zh-CN&oi=ao). I worked as a research intern at Microsoft Research Asia (MSRA).
 
-I am currently working on trustworthy graph learning, with a focus on calibration. In the future, I plan to explore trustworthy outputs of LLMs and MLLMs. If you're interested, feel free to contact me via email.
+I am currently working on trustworthy graph learning, with a focus on calibration. In the future, I plan to explore trustworthy outputs of LLMs and MLLMs. I am also looking for collaborators. If you're interested, feel free to contact me via email.
 
 # 🤗 News
 
