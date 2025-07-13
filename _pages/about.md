@@ -32,7 +32,7 @@ I am currently working on trustworthy graph learning, with a focus on calibratio
 - *2024.11*：&nbsp;🎉🎉🎉 Honored to receive the Tencent Scholarship！
 
 
-# 📖 Publications
+# 📖 Selected Publications
 
 \* indicates equal contribution
 
