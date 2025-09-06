@@ -96,5 +96,5 @@ Acong Zhang, **Jincheng Huang**\*, Ping Li, Kai Zhang
 # 💬 Services
 
 - Area Chair: IJCNN 2025.
-- Program Committee Member for ICML 2024-2025, ICLR 2024-2025, NeurIPS 2024 2025, AAAI 2024-2026, ACM MM 2025, AISTATS2025 etc. 
+- Program Committee Member for ICML 2024-2025, ICLR 2024-2026, NeurIPS 2024 2025, AAAI 2024-2026, ACM MM 2025, AISTATS2025 etc. 
 - Reviewer for TNNLS, TKDE, TIP, IPM, NeuralComputing, etc.
