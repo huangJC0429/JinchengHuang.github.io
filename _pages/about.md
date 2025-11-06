@@ -22,8 +22,9 @@ Hi~ I am Jincheng Huang (黄金诚). I am a third-year PhD student at the Depart
 
 **My close collaborators**: [Liang Peng](https://scholar.google.com/citations?user=GuKZfakAAAAJ&hl=en), [Jie Xu](https://submissionsin.github.io/JIEXU.github.io/), [Yujie Mo](https://yujiemo.github.io/), [Mengmeng Zhan](), [Lu Zeng](), [Zongqian Wu](https://zongqianwu.github.io/), [Yonghua Zhu](https://scholar.google.com/citations?user=CVP8vGEAAAAJ&hl=en&oi=ao), [Rongyao Hu](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/21524?yxsh=09), [Jiangzhang Gan](https://scholar.google.com/citations?user=FMVDBN0AAAAJ&hl=en&oi=ao), [Acong Zhang](), [Honghao Wang]().
 
-
+<!--
 I am currently working on trustworthy graph learning, with a focus on calibration. In the future, I plan to explore trustworthy outputs of LLMs and MLLMs. ***I am also looking for collaborators***. If you're interested, feel free to contact me via email.
+-->
 
 # 🤗 News
 
