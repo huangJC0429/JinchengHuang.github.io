@@ -28,6 +28,8 @@ I am currently working on trustworthy graph learning, with a focus on calibratio
 
 # 🤗 News
 
+- *2026.01*: &nbsp;🎉🎉🎉 One paper is accepted by ICLR 2026！
+- *2026.01*: &nbsp; Invited to serve as an Area Chair for IJCNN'26.
 - *2025.05*: &nbsp;🎉🎉🎉 One paper is accepted by ICML 2025！
 - *2024.12*: &nbsp; Invited to serve as an Area Chair for IJCNN'25.
 - *2024.11*：&nbsp;🎉🎉🎉 Honored to receive the Tencent Scholarship！
@@ -38,6 +40,10 @@ I am currently working on trustworthy graph learning, with a focus on calibratio
 \* indicates equal contribution
 
 The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework. **Under Review** [[Paper]](https://arxiv.org/pdf/2505.11335) [[Code]]()
+
+**Jincheng Huang**, Jie Xu, Xiaoshuang Shi, Ping Hu, Lei Feng, Xiaofeng Zhu
+	
+Revisiting Confidence Calibration for Misclassification Detection in VLMs.  **ICLR 2026.** [[Paper]](https://openreview.net/forum?id=d8WMoi571f) [[Code]]()
 
 **Jincheng Huang**, Jie Xu, Xiaoshuang Shi, Ping Hu, Lei Feng, Xiaofeng Zhu
 
