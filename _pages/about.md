@@ -89,6 +89,7 @@ Acong Zhang, **Jincheng Huang**\*, Ping Li, Kai Zhang
 - *2024.07* China Scholarship Council.
 - *2024.09* First-class Scholarship.
 - *2024.11* Tencent Scholarship.
+- *2026.04* “Academic Newcomer” Graduate Student Honor Award.
 
 # ✨ Internship
 
