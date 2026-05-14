@@ -27,7 +27,7 @@ I am currently working on trustworthy graph learning, with a focus on calibratio
 -->
 
 # 🤗 News
-
+- *2026.05*；&nbsp;🎉🎉🎉 Awarded the ICML 2026 Silver Reviewer Award！
 - *2026.01*: &nbsp;🎉🎉🎉 One paper is accepted by ICLR 2026！
 - *2026.01*: &nbsp; Invited to serve as an Area Chair for IJCNN'26.
 - *2025.05*: &nbsp;🎉🎉🎉 One paper is accepted by ICML 2025！
@@ -90,6 +90,7 @@ Acong Zhang, **Jincheng Huang**\*, Ping Li, Kai Zhang
 - *2024.09* First-class Scholarship.
 - *2024.11* Tencent Scholarship.
 - *2026.04* “Academic Newcomer” Graduate Student Honor Award.
+- *2026.05* ICML Silver Reviewer Award.
 
 # ✨ Internship
 
