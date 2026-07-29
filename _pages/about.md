@@ -99,7 +99,7 @@ Acong Zhang, **Jincheng Huang**\*, Ping Li, Kai Zhang
 
 # 🏫 Educations
 
-- *2023.09 - (now)*, University of Electronic Science and Technology of China, Chengdu, China, Ph.D. student of Computer Science and Technology.
+- *2023.09 - 2026.06*, University of Electronic Science and Technology of China, Chengdu, China, Ph.D. student of Computer Science and Technology.
 - *2020.09 - 2023.06*, Southwest Petroleum University, Chengdu, China, Master of Computer Technology, Master of Computer Science and Technology. 
 - *2016.09 - 2020.06*, Suzhou University of Technology, Suzhou, China, Bachelor of Computer Science and Technology (Internet of Things Engineering). 
 
