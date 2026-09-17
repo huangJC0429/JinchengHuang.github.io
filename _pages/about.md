@@ -28,6 +28,7 @@ I am currently working on trustworthy graph learning, with a focus on calibratio
 -->
 
 # 🤗 News
+- *2026.09*: &nbsp; Invited to serve as an Area Chair for ICLR'27.
 - *2026.05*；&nbsp;🎉🎉🎉 Awarded the ICML 2026 Silver Reviewer Award！
 - *2026.01*: &nbsp;🎉🎉🎉 One paper is accepted by ICLR 2026！
 - *2026.01*: &nbsp; Invited to serve as an Area Chair for IJCNN'26.
@@ -105,6 +106,6 @@ Acong Zhang, **Jincheng Huang**\*, Ping Li, Kai Zhang
 
 # 💬 Services
 
-- Area Chair: IJCNN 2025, 2026.
+- Area Chair: IJCNN 2025-2026, ICLR 2027.
 - Program Committee Member for ICML 2024-2026, ICLR 2024-2026, NeurIPS 2024-2026, AAAI 2024-2027, ACM MM 2025-2026, AISTATS 2025-2026 etc. 
 - Reviewer for TNNLS, TKDE, TIP, TMLR, IPM, NeuralComputing, etc.
