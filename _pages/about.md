@@ -28,12 +28,12 @@ I am currently working on trustworthy graph learning, with a focus on calibratio
 -->
 
 # 🤗 News
-- *2026.09*: &nbsp; Invited to serve as an Area Chair for ICLR'27.
+- *2026.09*: &nbsp; Invited to serve as an Area Chair for ICLR 2027.
 - *2026.05*；&nbsp;🎉🎉🎉 Awarded the ICML 2026 Silver Reviewer Award！
 - *2026.01*: &nbsp;🎉🎉🎉 One paper is accepted by ICLR 2026！
-- *2026.01*: &nbsp; Invited to serve as an Area Chair for IJCNN'26.
+- *2026.01*: &nbsp; Invited to serve as an Area Chair for IJCNN 2026.
 - *2025.05*: &nbsp;🎉🎉🎉 One paper is accepted by ICML 2025！
-- *2024.12*: &nbsp; Invited to serve as an Area Chair for IJCNN'25.
+- *2024.12*: &nbsp; Invited to serve as an Area Chair for IJCNN 2025.
 - *2024.11*：&nbsp;🎉🎉🎉 Honored to receive the Tencent Scholarship！
 
 
