@@ -28,6 +28,7 @@ I am currently working on trustworthy graph learning, with a focus on calibratio
 -->
 
 # 🤗 News
+- *2026.09*: &nbsp;🎉🎉🎉 One paper is accepted by NeurIPS 2026！
 - *2026.09*: &nbsp; Invited to serve as an Area Chair for ICLR 2027.
 - *2026.05*；&nbsp;🎉🎉🎉 Awarded the ICML 2026 Silver Reviewer Award！
 - *2026.01*: &nbsp;🎉🎉🎉 One paper is accepted by ICLR 2026！
@@ -41,7 +42,7 @@ I am currently working on trustworthy graph learning, with a focus on calibratio
 
 \* indicates equal contribution
 
-The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework. **Under Review** [[Paper]](https://arxiv.org/pdf/2505.11335) [[Code]]()
+Understanding and Mitigating Under-Confidence in GNNs from the Final Layer. **NeurIPS 2026** [[Paper]]() [[Code]]()
 
 **Jincheng Huang**, Jie Xu, Xiaoshuang Shi, Ping Hu, Lei Feng, Xiaofeng Zhu
 	
